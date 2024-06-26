@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=xiaoyu2017&show_icons=true&theme=tokyonight" /> </div>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xiaoyu2017&repo=github-readme-stats" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xiaoyu2017)](https://github.com/anuraghazra/github-readme-stats)
